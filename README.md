@@ -9,17 +9,17 @@
 - [License](#license)
 
 ## Description
-Built the backend of an ecommerce website. A MySQL database with the use of Expres.js. In Insomnia users can pull up the database in JSON format. Able to create new Products and Delete existing products int he database. 
+Built the backend of an e-commerce website. A MySQL database with the use of Expres.js. In Insomnia users can pull up the database in JSON format. Able to create new Products and Delete existing products in the database. 
 
 ## Installation
 Express.js, MySQL, Insomnia
 
 ## Screenshots 
-<img alt="Insomnia POST Screenshot" src=" ">
+<img alt="Insomnia POST Screenshot" src="https://github.com/AndrewBlanchard/AndrewBlanchard-ORM-E-Commerce-Backend/blob/main/Assets/screenShots/Create_Product_POST_Request.png">
 
-<img alt="Insomnia GET Screenshot" src=" ">
+<img alt="Insomnia GET Screenshot" src="https://github.com/AndrewBlanchard/AndrewBlanchard-ORM-E-Commerce-Backend/blob/main/Assets/screenShots/Get_Product_GET_Request.png">
 
-<img alt="Insomnia DELETE Screenshot" src=" ">
+<img alt="Insomnia DELETE Screenshot" src="https://github.com/AndrewBlanchard/AndrewBlanchard-ORM-E-Commerce-Backend/blob/main/Assets/screenShots/Delete_Product_DELETE_Request.png">
 
 ## License
 
